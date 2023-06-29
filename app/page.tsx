@@ -4,8 +4,9 @@ import { Counter } from '@/components/counter'
 export default function Home() {
   return (
     <>
-      <div className="mt-20 text-4xl">First Post</div>
-      <Counter></Counter>
+      <div className="bg-current h-28">
+        <div className="text-black text-4xl font-inter font-bold">Liscript</div>
+      </div>
     </>
   );
 }
