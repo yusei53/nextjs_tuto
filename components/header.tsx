@@ -14,7 +14,7 @@ export function Header() {
       <Image
         src="./icon.png"
         css={css`
-          width: 8%;
+          width: 105px;
         `}
       ></Image>
       <Box
