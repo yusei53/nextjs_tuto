@@ -1,10 +1,9 @@
-import Image from "next/image";
-import { Counter } from "@/components/counter";
+import { Header } from "../components/header";
 
 export default function Home() {
   return (
     <>
-      <div>First Post</div>
+      <Header></Header>
     </>
   );
 }
